@@ -1,4 +1,4 @@
 delte and insert in current line:
-<detail>
+<detail open>
 cc
 </detail>
