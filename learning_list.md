@@ -1,4 +1,5 @@
+only the ones that I think are easy to follow along:
 svelte learning links:
-[svelte magic gathering counter app](https://www.youtube.com/watch?v=M_teofI6vKY&list=PLT9tklUafCrKINVnRGFiqMU-b0zFyR6TG)
+https://learn.svelte.dev/tutorial/welcome-to-svelte
 
 
