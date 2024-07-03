@@ -13,3 +13,5 @@ https://react.dev/learn
 
 https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures-v8/
 (my thoughts: this course is not good. I finished half of it and still don't know what I just had done. it's a walkthrough. NOT a learning material).
+
+- kahhot svelte go tutorial: too hard .haven't learned go and mongodb. gets boring following it!
