@@ -1,4 +1,9 @@
 only the ones that I think are easy to follow along: \
+react :
+tic tac toe:
+https://www.youtube.com/watch?v=c8dXnuVwmA8 
+
+
 svelte learning links: \
 https://learn.svelte.dev/tutorial/welcome-to-svelte \
 
