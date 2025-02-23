@@ -1,4 +1,3 @@
-all useful projects exercises, will add project links 
-currently:
--svelte todo brad
--react scrimba.
+all great exercises i have done !
+
+- vue 6 projects udemy
